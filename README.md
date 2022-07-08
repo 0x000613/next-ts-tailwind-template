@@ -10,7 +10,7 @@ $ yarn create next-app next-ts-tailwind-template -e with-tailwindcss --typescrip
 tailwindcss@3.1.5
 typescript@4.7.2
 
-React
+React 
 ├─ @types/react-dom@18.0.5
 │  ├─ @types/react@*
 │  └─ @types/react@18.0.15
